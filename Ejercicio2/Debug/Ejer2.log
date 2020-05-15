@@ -1,0 +1,6 @@
+﻿  Ejer2.cpp
+  metodos.cpp
+D:\UNSA-Virtual\PS\c++\Ejercicio2\clase.h(7,31): warning C4244: 'inicializando': conversión de 'double' a 'const int'; posible pérdida de datos
+  Generando código...
+D:\UNSA-Virtual\PS\c++\Ejercicio2\clase.h(7,31): warning C4244: 'inicializando': conversión de 'double' a 'const int'; posible pérdida de datos
+  Ejer2.vcxproj -> D:\UNSA-Virtual\PS\c++\Ejercicio2\Debug\Ejer2.exe
